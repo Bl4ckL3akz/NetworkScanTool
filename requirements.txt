@@ -1,6 +1,0 @@
-colorama
-scapy
-icmplib
-platform
-python-whois
-ip2geotools
