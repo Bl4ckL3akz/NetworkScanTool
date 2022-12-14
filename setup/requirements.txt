@@ -1,0 +1,7 @@
+colorama
+argparse
+pyfiglet
+pyinstaller
+timelib
+configparser
+wget
